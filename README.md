@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+After the installation is complete, run `npm run dev` to start the Next development server, this will make the app available on port 3000, on localhost.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
